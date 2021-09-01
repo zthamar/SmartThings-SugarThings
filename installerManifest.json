@@ -18,7 +18,7 @@
       "name": "Sugarmate",
       "iconUrl": "https://raw.githubusercontent.com/madenwala/SmartThingsSugarmate/master/icons/Sugarmate.png",
       "published": true,
-      "oAuth": true,
+      "oAuth": false,
       "version": "0.1.0",
       "appSettings": {},
       "appUrl": "smartapps/madenwala/sugarmate.src/sugarmate.groovy"
